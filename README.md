@@ -1,7 +1,7 @@
 waittext
 ========
 #####Display updating line of text or textual waitbar in Matlab Command Window.#####
-######Version 1.0, 4-7-13######
+######Version 1.0, 4-13-16######
 #####Download Repository: [ZIP Archive](https://github.com/horchler/waittext/archive/master.zip)#####
 
 --------
@@ -14,7 +14,7 @@ waittext
 --------
 
 Andrew D. Horchler, *adh9 @ case . edu*, [biorobots.case.edu](http://biorobots.case.edu/)  
-Created: 6-8-12, Revision: 1.0, 4-7-13  
+Created: 6-8-12, Revision: 1.0, 4-13-16  
 
 This version tested with Matlab 9.0.0.341360 (R2016a)  
 Mac OS X 10.11.4 (Build: 15E65), Java 1.7.0_75-b13  

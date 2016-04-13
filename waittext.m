@@ -85,7 +85,7 @@ function varargout=waittext(varargin)
 %   See also WAITBAR, FPRINTF, ISSTRPROP, DISP, SPMD.
 
 %   Andrew D. Horchler, adh9 @ case . edu, Created 6-8-12
-%   Revision: 1.0, 4-7-13
+%   Revision: 1.0, 4-13-16
 
 % Inspired by:
 % blogs.mathworks.com/loren/2007/08/01/monitoring-progress-of-a-calculation/#7
@@ -97,14 +97,8 @@ function varargout=waittext(varargin)
 % initialized) and LASTWARN is again reset.
 
 
-if nargin < 1
-	error('SHCTools:waittext:TooFewInputs','Too many input arguments.');
-elseif nargin > 5
-	error('SHCTools:waittext:TooManyInputs','Too many input arguments.');
-end
-if nargout > 1
-	error('SHCTools:waittext:TooManyOutputs','Too many output arguments.');
-end
+narginchk(1,5);
+narginchk(0,1);
 
 % Check if spmd mode
 hasSPMD = (exist('spmd','builtin') == 5);
