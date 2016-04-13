@@ -98,7 +98,7 @@ function varargout=waittext(varargin)
 
 
 narginchk(1,5);
-narginchk(0,1);
+nargoutchk(0,1);
 
 % Check if spmd mode
 hasSPMD = (exist('spmd','builtin') == 5);
