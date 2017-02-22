@@ -9,7 +9,7 @@ function waittext_testspmd(benchmark)
 %
 %   See also WAITTEXT, WAITBAR, SPMD.
 
-%   Andrew D. Horchler, adh9 @ case . edu, Created 6-22-12
+%   Andrew D. Horchler, horchler @ gmail . com, Created 6-22-12
 %   Revision: 1.0, 6-23-12
 
 % Inspired by:

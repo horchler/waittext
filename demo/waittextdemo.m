@@ -7,7 +7,7 @@ function waittextdemo
 %
 %   See also WAITTEXT.
 
-%   Andrew D. Horchler, adh9 @ case . edu, Created 6-14-12
+%   Andrew D. Horchler, horchler @ gmail . com, Created 6-14-12
 %   Revision: 1.0, 6-14-12
 
 % Inspired by:

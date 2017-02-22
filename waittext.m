@@ -84,7 +84,7 @@ function varargout=waittext(varargin)
 %
 %   See also WAITBAR, FPRINTF, ISSTRPROP, DISP, SPMD.
 
-%   Andrew D. Horchler, adh9 @ case . edu, Created 6-8-12
+%   Andrew D. Horchler, horchler @ gmail . com, Created 6-8-12
 %   Revision: 1.0, 4-13-16
 
 % Inspired by:
