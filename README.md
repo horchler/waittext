@@ -1,8 +1,8 @@
 waittext
 ========
-#####Display updating line of text or textual waitbar in Matlab Command Window.#####
-######Version 1.0, 4-13-16######
-#####Download Repository: [ZIP Archive](https://github.com/horchler/waittext/archive/master.zip)#####
+##### Display updating line of text or textual waitbar in Matlab Command Window.
+###### Version 1.0, 4-13-16
+##### Download Repository: [ZIP Archive](https://github.com/horchler/waittext/archive/master.zip)
 
 --------
 
